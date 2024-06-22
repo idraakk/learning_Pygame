@@ -2,7 +2,7 @@ import pygame
 pygame.init()
 
 #Creating game window
-gameDisplay = pygame.display.set_mode((1200,600))
+pygame.display.set_mode((1200,600))
 pygame.display.set_caption("My First Game")
 
 
