@@ -1,3 +1,10 @@
+'''
+* Game Window
+* Game variables some
+* Game loop
+* Mouse or Keyboard or Joystick events ; and Exiting event
+'''
+
 import pygame
 pygame.init()
 
